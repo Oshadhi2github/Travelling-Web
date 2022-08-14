@@ -1,0 +1,14 @@
+.style2 {
+	font-size: 27px;
+	color: #E6005C;
+	font-weight: bold;
+	text-decoration:blink;
+}
+#Layer3 {
+	position:absolute;
+	width:300px;
+	height:47px;
+	z-index:3;
+	left: 550px;
+	
+}

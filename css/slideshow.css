@@ -1,0 +1,50 @@
+#slideshow {
+	position: absolute;
+	height:960px;
+	z-index: -1;
+ 
+
+}
+
+#slideshow IMG {
+	position:absolute;
+	top:2px;
+	z-index:8;
+	width: auto;
+
+
+
+}
+
+
+
+#slideshow IMG.active {
+    z-index:10;
+
+ 
+}
+
+
+
+
+
+#slideshow IMG.last-active {
+    z-index:9;
+
+
+}
+
+
+
+
+
+
+/*  --- what to do ---
+
+
+--- for image center/fix and image size. z-index:-1 = for image go to backwards and sub menu will display---
+
+--- for image hidden and image slide show. when not we use this code, images will display under 1 by 1 ---
+
+--- for slide show design---		 
+*/
